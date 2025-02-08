@@ -12,6 +12,6 @@ A simple Python-based grocery store management system that allows users to view 
 
 
 **Technologies Used**
-Python
-File Handling (Reading a Text File)
+Python,
+File Handling (Reading a Text File),
 Dictionaries & Loops
