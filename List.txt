@@ -1,0 +1,19 @@
+Price_Per_Items
+Soap 25
+Toothpaste 40
+Kiwi 60
+Coconut_Water 70
+Orange_juice 40
+Coffee 10
+Chips 20
+Eggs 15
+Chatt_Masala 80
+Water 20
+Apple 150
+Patato 20
+Rice 80
+Milk 60
+Tea 150
+Wheat 50
+Shampoo 675
+Fortune_Oil 155
